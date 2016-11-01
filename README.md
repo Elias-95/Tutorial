@@ -1,7 +1,3 @@
-#include <stdio.h>
-int main(){
-printf("My first edit");
-return 0;
-}
+# Tutorial
 
-//This is my tutorial repository.
+This is my tutorial repository.
